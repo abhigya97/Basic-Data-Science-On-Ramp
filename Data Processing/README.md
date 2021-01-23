@@ -1,1 +1,1 @@
-Assignments for Data Processing.
+Assignments for Data Processing mini course
